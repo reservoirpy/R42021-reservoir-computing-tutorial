@@ -28,3 +28,5 @@ Ouvrez le notebook depuis la page ouverte sur votre navigateur. Si aucune page n
 
 Les 1 à 3 utilisent des jeux de données inclus dans ReservoirPy. Les chapitres 4 et 5 nécessitent des données externes, disponibles à la demande.
 
+Les données sur la prédiction de chute du robot (du chapitre 4) sont [disponibles ici](https://doi.org/10.5281/zenodo.5900966): 
+- Grégoire Passault. (2022). Humanoid push recovery logs (simulation) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5900966
